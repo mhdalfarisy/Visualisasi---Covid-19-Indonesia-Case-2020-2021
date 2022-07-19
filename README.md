@@ -1,5 +1,8 @@
 # Visualisasi Tableau Covid-19 Indonesia Case 2020-2021
 
+# Penjelasan EDA - Dataset :
+- Dataset [Avenger](https://www.kaggle.com/datasets/hendratno/covid19-indonesia)
+
 <hr>
 
 
