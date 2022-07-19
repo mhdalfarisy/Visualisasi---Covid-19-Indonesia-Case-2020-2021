@@ -1,10 +1,10 @@
 # Visualisasi Tableau Covid-19 Indonesia Case 2020-2021
 
-# Penjelasan EDA - Dataset :
-- Dataset [Avenger](https://www.kaggle.com/datasets/hendratno/covid19-indonesia)
+# Pemasalahan dan Tujuan Analisa :
+- Tingginya kasus Covid-19 di Negara Indonesia membuat saya tertarik untuk menganalisa dataset kasus covid-19 yang ada di setiap provinsi indonesia. Analisa ini saya lakukan dengan langkah-langkah mengcleaning data terlebih dahulu kemudian saya masukan ke dalam software tableau untuk dapat melihat visualisasi secara detail per tiap provinsi di indonesia dengan detail terkait total kasus, total masyarakat yang sembuh dan total masyarakat yang meninggal dengan menggunakan nilai tertinggi. [Dataset Covid - 19 Di Indonesia Tahun 2020-2021](https://www.kaggle.com/datasets/hendratno/covid19-indonesia) diperoleh dari **Kaggle**. Hasil analisa ini saya harap dapat memberikan gambaran secara detail terkait kasus covid-19 di seluruh provinsi yang ada di indonesia.
+
 
 <hr>
-
 
 # Mari berkenalan :heavy_check_mark:
 [![Avenger](https://github.com/mhdalfarisy/CRUD-Program-Stock-Barang-Gudang/blob/main/image/Linkedin.jpg)](https://www.linkedin.com/in/m-alfarisy97/)
